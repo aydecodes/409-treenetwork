@@ -1,4 +1,5 @@
 # Cats vs Dogs Dataset
+1.
 For  parameters:
 ` EPOCHS, BATCH_SIZE, IMAGE_SIZE = 100, 32, 128
 TREE_DEPTH, FEATURE_SIZE, NODE_HIDDEN_SIZE = 1, 128, 32
@@ -12,3 +13,11 @@ Total epochs completed	113
 Architecture	Shared CNN + depth-1 soft tree`
 
 <img width="1798" height="861" alt="image" src="https://github.com/user-attachments/assets/6c66b4b4-c5a8-4217-b5dc-eeb9d1a5bbbe" />
+
+
+2.
+For parameters:
+`EPOCHS, BATCH_SIZE, IMAGE_SIZE = 100, 32, 96
+TREE_DEPTH, FEATURE_SIZE, NODE_HIDDEN_SIZE = 1, 64, 16
+LEARNING_RATE, VAL_FRACTION, SEED = 1e-3, .2, 42`
+
