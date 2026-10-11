@@ -21,3 +21,10 @@ For parameters:
 TREE_DEPTH, FEATURE_SIZE, NODE_HIDDEN_SIZE = 1, 64, 16
 LEARNING_RATE, VAL_FRACTION, SEED = 1e-3, .2, 42`
 
+`First epoch with 100% training accuracy	68
+Best validation accuracy	84.63%
+Epoch of best validation accuracy	62
+Total epochs completed	100
+Architecture	Shared CNN + depth-1 soft tree`
+
+<img width="1489" height="490" alt="image" src="https://github.com/user-attachments/assets/d3a32631-1ac6-457c-9785-78f812a6edc1" />
