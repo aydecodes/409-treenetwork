@@ -21,7 +21,8 @@ For parameters:
 TREE_DEPTH, FEATURE_SIZE, NODE_HIDDEN_SIZE = 1, 64, 16
 LEARNING_RATE, VAL_FRACTION, SEED = 1e-3, .2, 42`
 
-`First epoch with 100% training accuracy	68
+`Metric Result
+First epoch with 100% training accuracy	68
 Best validation accuracy	84.63%
 Epoch of best validation accuracy	62
 Total epochs completed	100
