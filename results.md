@@ -28,4 +28,5 @@ Epoch of best validation accuracy	62
 Total epochs completed	100
 Architecture	Shared CNN + depth-1 soft tree`
 
+Trainable parameters: 390,469
 <img width="1489" height="490" alt="image" src="https://github.com/user-attachments/assets/d3a32631-1ac6-457c-9785-78f812a6edc1" />
