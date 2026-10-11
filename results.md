@@ -31,6 +31,17 @@ Architecture	Shared CNN + depth-1 soft tree`
 Trainable parameters: 390,469
 <img width="1489" height="490" alt="image" src="https://github.com/user-attachments/assets/d3a32631-1ac6-457c-9785-78f812a6edc1" />
 
+For CONFIGS = [
+    (16, 4),
+    (32, 8),
+    (64, 16),
+    (128, 32),
+    (256, 64),
+]
+
+<img width="937" height="411" alt="image" src="https://github.com/user-attachments/assets/9ed93c4c-0f74-4791-9396-ada523b2c4c7" />
+
+<img width="1179" height="1003" alt="image" src="https://github.com/user-attachments/assets/3e892ac1-dadc-4a4e-9a95-6b06cda37e77" />
 
 
 # CIFAR 10
@@ -183,6 +194,12 @@ PROFILE: BASELINE
 <img width="981" height="393" alt="image" src="https://github.com/user-attachments/assets/96a0ec96-1c35-411a-882f-d7ab2718b32f" />
 <img width="1388" height="499" alt="image" src="https://github.com/user-attachments/assets/c436f0a3-6226-44ee-bca2-c2eacb730bd0" />
 
+
+
 Capacity / double descent experiment
 <img width="1482" height="939" alt="image" src="https://github.com/user-attachments/assets/d2b99c37-08f3-414e-b11d-2ddb03c33bff" />
 <img width="1711" height="1266" alt="image" src="https://github.com/user-attachments/assets/a6efb240-f820-4b77-8295-8756e2ecdc09" />
+
+VISUALIZATION:
+<img width="1901" height="417" alt="image" src="https://github.com/user-attachments/assets/df132d47-571a-4720-903d-0d7a439199ed" />
+
